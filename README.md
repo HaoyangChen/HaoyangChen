@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there👋, I'm Eric and I am an Informatics senior specializing in Software Development at the University of Washington. Outside of school, I had built and deployed large-scale web, mobile applications, and management systems for startups, enterprises, and NGOs. Web/Mobile Application Development 👨🏻‍💻is my speciality and hobby.
+Hi there👋, I'm Eric and I am an Informatics senior specializing in Software Development at the University of Washington. Web / Mobile Application Development 👨🏻‍💻 is my speciality and hobby.
